@@ -144,7 +144,7 @@ const About = () => {
           {about.text}
           <StyledQuoteIcon />
           </Story>
-          <StatusWrapper>'
+          <StatusWrapper>
             <StatusItem>
             <StyledCircle /> 
             &nbsp;&nbsp;{about.occupation}
