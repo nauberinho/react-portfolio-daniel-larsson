@@ -1,0 +1,15 @@
+To do:
+
+About
+My work
+My skills
+Contact
+
+Theme
+
+
+
+Techs: 
+Styled components
+Routing
+Scrolling
